@@ -1,4 +1,4 @@
-# flutter_provider
+# flutter_provider_practice
 
 A new Flutter project.
 
